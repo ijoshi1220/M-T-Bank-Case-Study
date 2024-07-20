@@ -40,9 +40,5 @@ The M&T Bridge Program aims to increase financial literacy, bridge the digital d
 - **Entrepreneurship Support**: Stimulate economic development within LMI communities.
 - **Digital Inclusion**: Bridge the digital divide and enable access to essential online services.
 
-## How to Reach Us
-For more information or to collaborate on this project, please contact:
-- **Isha Joshi**: [isha.joshi@example.com](mailto:isha.joshi@example.com)
-
 ## Fun Fact
 "Someone’s sitting in the shade today because someone planted a tree a long time ago." — Warren Buffett
